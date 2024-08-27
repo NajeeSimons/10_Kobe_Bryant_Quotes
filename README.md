@@ -1,0 +1,1 @@
+This project is a simple Python script that generates random quotes from the legendary basketball player Kobe Bryant. It is designed to showcase basic Python programming skills and provide a fun way to get inspired by Kobe’s words. This is also my first project on GitHub as I start my journey in coding and open-source contributions.
